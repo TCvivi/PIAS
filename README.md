@@ -15,4 +15,14 @@ pip install torch torchvision numpy scipy tqdm timm
 ```
 python3 train_pias.py
 ```
+# Citing 
+```
+@article{tang2025rethinking,
+  title={Rethinking Generalized Zero-Shot Learning: A Synthesized Per-Instance Attribute Perspective},
+  author={Tang, Chenwei and Wang, Ying and Xie, Wei and Zhang, Qianjun and Xiao, Rong and He, Zhenan and Lv, Jiancheng},
+  journal={IEEE Transactions on Image Processing},
+  year={2025},
+  publisher={IEEE}
+}
+```
 
